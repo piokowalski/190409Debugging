@@ -1,2 +1,4 @@
 .idea
-out
+
+!workshop/01-scanner/.idea
+workshop/01-scanner/out
