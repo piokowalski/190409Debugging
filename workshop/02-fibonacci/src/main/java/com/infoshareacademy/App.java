@@ -18,7 +18,7 @@ public class App {
         int b = 1;
         int c;
 
-        for (int i = 1; i <= n; i++) {
+            for (int i = 1; i <= n; i++) {
             c = a + b;
             a = b;
             b = c;

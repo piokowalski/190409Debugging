@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2d3e4f2-c990-4306-87bf-b54c4b838a2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../jjdd6-materialy-debugowanie" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/infoshareacademy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/infoshareacademy/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f2d3e4f2-c990-4306-87bf-b54c4b838a2b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,8 +98,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554796278511" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554796290297" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02-fibonacci/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -156,12 +150,20 @@
       <workItem from="1543265532380" duration="2804000" />
       <workItem from="1543270123380" duration="12000" />
       <workItem from="1543270478105" duration="107000" />
-      <workItem from="1554795226249" duration="873000" />
+      <workItem from="1554795226249" duration="1087000" />
     </task>
+    <task id="LOCAL-00001" summary="Break point used">
+      <created>1554796290383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554796290383</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6550000" />
+    <option name="totallyTimeSpent" value="6764000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
@@ -177,7 +179,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.3295711" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.73976916" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48058763" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -202,6 +204,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Break point used" />
+    <option name="LAST_COMMIT_MESSAGE" value="Break point used" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -209,7 +215,7 @@
           <url>file://$PROJECT_DIR$/src/com/infoshareacademy/Main.java</url>
           <line>20</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
