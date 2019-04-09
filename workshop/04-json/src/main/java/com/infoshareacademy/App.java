@@ -31,7 +31,7 @@ public class App {
 
             // Find users having e-mails in domain .pl
             emails.forEach(mail -> {
-                if (mail.contains("pl")) {
+                if (mail.contains(".pl")) {
                     System.out.println(mail);
                 }
             });
