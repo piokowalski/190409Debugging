@@ -7,7 +7,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        for (int number = 2; number <= 30; number++) {
+        for (int number = 2; number <= 999; number++) {
             boolean isPrime = PrimeTester.isPrime(number);
 
             if (isPrime) {
